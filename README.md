@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Towers of Hanoi: Reading and Passing Tests
 
 Time to put your newfound mocha knowledge to the test! In this project you'll be
@@ -35,3 +36,8 @@ next project.
 [hanoi-game]: https://www.mathplayground.com/logic_tower_of_hanoi.html
 [chai]: https://www.chaijs.com/api/bdd/
 [chai-spies]: https://www.chaijs.com/plugins/chai-spies/
+=======
+# Hanoi-Game-in-Node
+Play a simple Hanoi game in Node.
+3 Rods and 3 Disks
+>>>>>>> 8d1f34fe270d7b0a0867e6cb91d054a93e750738
